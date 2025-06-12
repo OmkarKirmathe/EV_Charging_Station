@@ -1,0 +1,2 @@
+# EV_Charging_Station
+This Arduino-based project automates an EV charging station using an IR sensor for vehicle detection, RFID authentication for access control, a servo motor for gate operation, and a relay module to start/stop charging. The system displays real-time status and billing information on a 16x2 I2C LCD screen.
